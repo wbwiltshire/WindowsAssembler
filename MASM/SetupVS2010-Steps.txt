@@ -1,0 +1,10 @@
+. Project->New->Project->
+. Win32 Console Application (Select name and git repository)
+. Win32 Applications Wizard
+  - Next
+  - Console Application
+  - Uncheck pre-compiled headers
+  - Check Empty project
+  - Finish
+. Delete the External Dependencies, Header, Resource, and Source files folders
+. 
