@@ -29,5 +29,5 @@ clean:
 	@IF EXIST *.obj (del *.obj)
 	@IF EXIST *.lst (del *.lst)
 	
-run:
+test:
 	$(EXECUTABLE)
